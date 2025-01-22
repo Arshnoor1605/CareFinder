@@ -1,6 +1,27 @@
 # CareFinder  
 
-CareFinder is a user-centric web application designed to make searching for healthcare facilities more efficient and accessible. With intuitive navigation and advanced filtering options, users can quickly locate the most suitable facilities based on their needs.  
+### Project Summary:
+CareFinder is a specialized web-based platform that enables users across
+Canada to locate healthcare facilities, including hospitals, nursing homes,
+and ambulatory health services, with ease. Key features include an
+interactive map with search and filter options, detailed facility profiles, and
+an adaptable interface with dark mode for visual clarity. Users can filter
+facilities by location, type, and services, explore detailed information about
+each facility, and view the distribution of facilities across Canada.
+
+
+#### Problem Statement and Motivation:
+While general map services like Google Maps offer basic location
+information, CareFinder is uniquely tailored to address the healthcare
+needs of Canadian residents, immigrants, healthcare professionals,
+caregivers, and tourists seeking medical facilities. The motivation behind
+CareFinder is to provide a focused, efficient tool for finding healthcare
+services by specific criteria such as facility type and specialized services—
+details often buried or inconsistent in broader mapping platforms.
+CareFinder solves the problem of healthcare access by providing an
+organized, filterable, and user-friendly interface dedicated solely to
+healthcare, empowering users to make informed choices about the
+facilities that meet their needs.
 
 ---
 
