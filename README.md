@@ -35,6 +35,26 @@ facilities that meet their needs.
 
 ---
 
+## 🖥️ Usage
+
+1. **Login**
+   - Log in using your credentials to access features.
+
+2. **Search for Healthcare Facilities**
+   - Use the search bar to type in a location or facility name.
+   - Apply filters like service type, provider, or location for refined results.
+
+3. **View Facilities on the Map**
+   - Explore a map view with facility icons. Hover over or click on icons for detailed information.
+
+4. **Save Filters**
+   - Save frequently used filters for faster searches next time.
+
+5. **Access FAQs**
+   - If you're stuck, visit the FAQ section for quick guidance.
+     
+---
+
 ## 🚀 How to Use  
 
 Quick Guide to Running the Code：
