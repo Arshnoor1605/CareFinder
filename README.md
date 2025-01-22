@@ -16,3 +16,9 @@ CareFinder is a user-centric web application designed to make searching for heal
 
 ## 🚀 How to Use  
 
+Quick Guide to Running the Code：
+
+cd inside folder high_fidelity_prototype
+double click on file index.html
+username: admin
+password: 123456
