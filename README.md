@@ -38,7 +38,10 @@ facilities that meet their needs.
 ## 🖥️ Usage
 
 1. **Login**
-   - Log in using your credentials to access features.
+   - cd inside folder high_fidelity_prototype <br> 
+   - double click on file index.html <br> 
+   - username: admin <br> 
+   - password: 123456 <br> 
 
 2. **Search for Healthcare Facilities**
    - Use the search bar to type in a location or facility name.
@@ -54,15 +57,5 @@ facilities that meet their needs.
    - If you're stuck, visit the FAQ section for quick guidance.
      
 ---
-
-## 🚀 How to Use  
-
-Quick Guide to Running the Code：
-
-cd inside folder high_fidelity_prototype <br> 
-double click on file index.html <br> 
-username: admin <br> 
-password: 123456 <br> 
-<br> <br> 
 
 <b> Dataset used: https://www.statcan.gc.ca/en/lode/databases/odhf
