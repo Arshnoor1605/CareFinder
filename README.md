@@ -1,5 +1,7 @@
 # CareFinder: Mapping Canadian Healthcare Facilities 
 
+CareFinder is now live! Explore the deployed version of the application here: [CareFinder Live](https://care-finder-orpin.vercel.app)
+
 ### Project Summary:
 CareFinder is a specialized web-based platform that enables users across
 Canada to locate healthcare facilities, including hospitals, nursing homes,
