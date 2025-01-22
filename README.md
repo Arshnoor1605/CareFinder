@@ -1,4 +1,4 @@
-# CareFinder  
+# CareFinder: Mapping Canadian Healthcare Facilities 
 
 ### Project Summary:
 CareFinder is a specialized web-based platform that enables users across
